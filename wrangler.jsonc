@@ -15,8 +15,9 @@
     {
       "binding": "DB",
       "database_name": "criscred",
-      "database_id": "00000000-0000-4000-8000-000000000000",
+      "database_id": "975dbe57-0b41-409d-ab7b-56ba6f2d3d45",
       "migrations_dir": "drizzle"
     }
   ]
 }
+
